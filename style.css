@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  background: #f4f6f8;
+  padding: 20px;
+}
+
+h1 { text-align: center; }
+
+button {
+  display: block;
+  margin: 10px auto;
+  padding: 10px 20px;
+}
+
+.road {
+  background: white;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.free { border-left: 8px solid green; }
+.moderate { border-left: 8px solid orange; }
+.high { border-left: 8px solid red; }
